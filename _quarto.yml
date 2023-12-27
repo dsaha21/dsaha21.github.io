@@ -21,7 +21,7 @@ format:
 
 project:
   type: website
-  output-dir: docs
+  output-dir: docs #
 
 # website:
 #   title: "MyBlog"
