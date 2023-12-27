@@ -1,0 +1,21 @@
+---
+title: "PERSONAL INFO"
+image: Dripto_image.png
+about:
+  template: jolla
+  links:
+    - icon: gmail
+      text: MAILID
+      href: sahadripto21@gmail.com
+
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dripto-saha-187b301a4/
+    
+    - icon: github
+      text: Github
+      href: https://dsaha21
+
+---
+
+Welcome to my blog. I am a ML Engineer with a 1.5 yrs of industry exp. 

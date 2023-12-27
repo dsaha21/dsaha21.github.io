@@ -1,0 +1,9 @@
+---
+title: "Post With Code -1 "
+author: "Dripto Saha"
+date: "2022-01-01"
+categories: [code, analysis]
+image: "image.jpg"
+---
+
+Worked as a Data Anayst  
