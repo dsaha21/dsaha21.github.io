@@ -3,7 +3,6 @@ project:
 
 website:
   title: "MyPersonalBlog"
-  # site-url: https://ds21.io
   description: "A great sample blog"
 
   navbar:
@@ -21,7 +20,7 @@ format:
 
 project:
   type: website
-  output-dir: docs #
+  output-dir: docs
 
 # website:
 #   title: "MyBlog"
