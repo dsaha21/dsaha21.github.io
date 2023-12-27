@@ -19,9 +19,9 @@ format:
     css: styles.css
 
 
-# project:
-#   type: website
-#   output-dir: file
+project:
+  type: website
+  output-dir: docs
 
 # website:
 #   title: "MyBlog"
