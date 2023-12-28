@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "posts/post-with-code-1/index.html",
-    "href": "posts/post-with-code-1/index.html",
-    "title": "Post With Code -1",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Worked as a Data Anayst"
+    "text": "Here My Personal Life journey will be shared\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HI MY NAME IS DRIPTO SAHA",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "KOTAI ELECTRONICS PVT LTD.\n\n\n\n\n\n\n\nNLP\n\n\nComputer Vision\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\nDripto Saha\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code -1\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\nDripto Saha\n\n\n\n\n\n\nNo matching items"
+    "text": "Here my work with all github links will be present"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,24 @@
     "text": "Welcome to my blog. I am a ML Engineer with a 1.5 yrs of industry exp."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HI MY NAME IS DRIPTO SAHA",
+    "section": "",
+    "text": "KOTAI ELECTRONICS PVT LTD.\n\n\n\n\n\n\n\nNLP\n\n\nComputer Vision\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\nDripto Saha\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code -1\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2022\n\n\nDripto Saha\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/Post-with code 2/index.html",
     "href": "posts/Post-with code 2/index.html",
     "title": "KOTAI ELECTRONICS PVT LTD.",
     "section": "",
     "text": "Worked as a Computer Vision engineer"
+  },
+  {
+    "objectID": "posts/post-with-code-1/index.html",
+    "href": "posts/post-with-code-1/index.html",
+    "title": "Post With Code -1",
+    "section": "",
+    "text": "Worked as a Data Anayst"
   }
 ]

@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "MyPersonalBlog"
+  # site-url: https://ds21.io
   description: "A great sample blog"
 
   navbar:
@@ -18,9 +20,7 @@ format:
     css: styles.css
 
 
-project:
-  type: website
-  output-dir: docs
+
 
 # website:
 #   title: "MyBlog"
