@@ -1,0 +1,9 @@
+---
+title: "A Audio preproceesing file using ML "
+author: "Dripto Saha"
+date: "2022-01-01"
+categories: [code, analysis, AUDIO, ML]
+image: "image.jpg"
+---
+
+Audio Files getting preprocessed using CNN, RNN and LSTMs
