@@ -14,8 +14,8 @@ about:
     
     - icon: github
       text: Github
-      href: https://dsaha21
+      href: https://github.com/dsaha21
 
 ---
 
-Welcome to my blog. I am a ML Engineer with a 1.5 yrs of industry exp. 
+Welcome to my blog. I am a ML Engineer eager to contribute my skills on Deep Learning. 

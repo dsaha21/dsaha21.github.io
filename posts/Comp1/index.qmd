@@ -1,0 +1,9 @@
+---
+title: "Tiger Analytics "
+author: "Dripto Saha"
+date: "December 2021 - January 2023"
+categories: [code, analysis]
+image: "image.jpg"
+---
+
+Worked as a Data Anayst in the Data Science Team

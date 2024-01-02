@@ -5,7 +5,8 @@ date: "2023 May - 2023 Sept"
 categories: [NLP, Computer Vision, Deep Learning]
 ---
 
-Worked as a Computer Vision engineer
+Worked as a Computer Vision engineer 
+Project Link - Soon!!
 
 ![](thumbnail.jpg)
 

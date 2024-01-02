@@ -1,8 +1,8 @@
 ---
-title: "A Audio preproceesing file using ML "
+title: "A Audio preprocessing file using ML "
 author: "Dripto Saha"
-date: "2022-01-01"
-categories: [code, analysis, AUDIO, ML]
+date: "December 2023"
+categories: [analysis, AUDIO, ML]
 image: "image.jpg"
 ---
 
