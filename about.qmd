@@ -15,7 +15,11 @@ about:
     - icon: github
       text: Github
       href: https://github.com/dsaha21
-
 ---
 
-Welcome to my blog. I am a ML Engineer eager to contribute my skills on Deep Learning. 
+🧑‍💻I am a ML Engineer eager to contribute my skills on Deep Learning. 
+⚽ A great supporter of Manchester City / Spain.
+🎮 I like DyingLight, Sekiro, Fifa, FarCry5 and other open world games  
+👉 Learning More About GANs and End-End ML Systems
+
+[RESUME](https://raw.githubusercontent.com/your-username/your-repository/main/path-to-your-resume/resume.pdf)
