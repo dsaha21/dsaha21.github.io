@@ -6,4 +6,5 @@ categories: [analysis, AUDIO, ML]
 image: "image.jpg"
 ---
 
-Audio Files getting preprocessed using CNN, RNN and LSTMs
+COINMAN GAME - https://github.com/dsaha21/Coinman_game
+Quantam TIC-TAC-TOE - https://github.com/dsaha21/Q-TicTacToe
