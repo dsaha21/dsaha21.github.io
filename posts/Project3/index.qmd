@@ -6,5 +6,5 @@ categories: [analysis, AUDIO, ML]
 image: "image.jpg"
 ---
 
-COINMAN GAME - https://github.com/dsaha21/Coinman_game
-Quantam TIC-TAC-TOE - https://github.com/dsaha21/Q-TicTacToe
+[COINMAN GAME](https://github.com/ds/Coinman_game) - Coinman_game
+[Quantum TIC-TAC-TOE](https://github.com/ds/Q-TicTacToe) - https://github.com/dsaha21/Q-TicTacToe
