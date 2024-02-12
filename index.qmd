@@ -1,8 +1,8 @@
 ---
-title: "HI MY NAME IS DRIPTO SAHA"
+title: "HI MY NAME IS DRIPTO SAHA "
 listing:
   contents: posts
-  sort: "date desc"
+  sort: false
   type: default
   categories: true
   sort-ui: false

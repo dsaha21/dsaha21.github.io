@@ -1,13 +1,19 @@
 ---
 title: "KOTAI ELECTRONICS PVT LTD."
-author: "Dripto Saha"
-date: "May 2023"
+subtitle: (May 2023 - Sept 2023)
 categories: [NLP, Computer Vision, Deep Learning]
 ---
 
-Worked as a Computer Vision engineer 
+**Worked as a Computer Vision engineer**
+----
 
-Project Links 
+
+**TECH STACK USED**: OpenCV and Spacy basics, Models(CNN
+and RNN using keras), Flask, Streamlit,HuggingFace NvidiaJetson OS
+
+
+----
+**Project Links** 
 
 [Book Summary](https://github.com/dsaha21/Summary_Book/tree/main),
 [People Counter](https://github.com/dsaha21/PeopleCounter)

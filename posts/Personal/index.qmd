@@ -1,0 +1,17 @@
+---
+title: "PERSONAL PROJECTS"
+categories: [analysis, AUDIO, ML]
+image: "image.jpg"
+---
+**PROJECT LINKS**:
+----
+
+
+1. A Mobile Android Applciation game - [COINMAN GAME](https://github.com/dsaha21/Coinman_game)
+
+2. A basic Tic-Tac-Toe Game using the application of Quantum Computing Superposition [Quantum TIC-TAC-TOE](https://github.com/dsaha21/Q-TicTacToe)
+
+3. Segmentation Paper - [UNET](https://arxiv.org/pdf/1505.04597v1.pdf)
+My Own Code Implementaion - [CODE](https://www.kaggle.com/driptosaha/semanticsegmentation-unet/edit)
+
+4. A Paper Implementation of HeatMaps and Segmentation - [GRAD CAM](https://arxiv.org/pdf/1610.02391.pdf) 

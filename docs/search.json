@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "posts/Project3/index.html",
-    "href": "posts/Project3/index.html",
+    "objectID": "posts/Personal/index.html",
+    "href": "posts/Personal/index.html",
     "title": "PERSONAL PROJECTS",
     "section": "",
-    "text": "PROJECT LINKS:\nCOINMAN GAME Quantum TIC-TAC-TOE"
+    "text": "A Mobile Android Applciation game - COINMAN GAME\nA basic Tic-Tac-Toe Game using the application of Quantum Computing Superposition Quantum TIC-TAC-TOE\nSegmentation Paper - UNET My Own Code Implementaion - CODE\nA Paper Implementation of HeatMaps and Segmentation - GRAD CAM"
+  },
+  {
+    "objectID": "posts/Personal/index.html#project-links",
+    "href": "posts/Personal/index.html#project-links",
+    "title": "PERSONAL PROJECTS",
+    "section": "",
+    "text": "A Mobile Android Applciation game - COINMAN GAME\nA basic Tic-Tac-Toe Game using the application of Quantum Computing Superposition Quantum TIC-TAC-TOE\nSegmentation Paper - UNET My Own Code Implementaion - CODE\nA Paper Implementation of HeatMaps and Segmentation - GRAD CAM"
   },
   {
     "objectID": "posts/Comp1/index.html",
     "href": "posts/Comp1/index.html",
     "title": "Tiger Analytics",
     "section": "",
-    "text": "Worked as a Data Anayst in the Data Science Team"
+    "text": "Worked as a Data Anayst in the Data Science Team Project on CPG -&gt; Estimated the US dollar opportunity sales of particular emerging trends, the estimated price in the upcoming years using NLP and time forecasting.\nResponsibilites: Helped the senior analysts with the Bigram,Trigrams, Data preprocessing and Topic Modelling Codes. Also helped to find the rising of prices of ingredients for a particular social event cause at a particular time period Regression and Classification models with a provided Product opportunity dataset\n\nTECH STACK USED: Python, MSExcel, Power BI"
+  },
+  {
+    "objectID": "posts/Comp1/index.html#my-work",
+    "href": "posts/Comp1/index.html#my-work",
+    "title": "Tiger Analytics",
+    "section": "",
+    "text": "Worked as a Data Anayst in the Data Science Team Project on CPG -&gt; Estimated the US dollar opportunity sales of particular emerging trends, the estimated price in the upcoming years using NLP and time forecasting.\nResponsibilites: Helped the senior analysts with the Bigram,Trigrams, Data preprocessing and Topic Modelling Codes. Also helped to find the rising of prices of ingredients for a particular social event cause at a particular time period Regression and Classification models with a provided Product opportunity dataset\n\nTECH STACK USED: Python, MSExcel, Power BI"
   },
   {
     "objectID": "about.html",
@@ -25,13 +39,20 @@
     "href": "index.html",
     "title": "HI MY NAME IS DRIPTO SAHA",
     "section": "",
-    "text": "Tiger Analytics\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\nDripto Saha\n\n\n\n\n\n\n  \n\n\n\n\nPERSONAL PROJECTS\n\n\n\n\n\n\n\nanalysis\n\n\nAUDIO\n\n\nML\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2023\n\n\nDripto Saha\n\n\n\n\n\n\n  \n\n\n\n\nKOTAI ELECTRONICS PVT LTD.\n\n\n\n\n\n\n\nNLP\n\n\nComputer Vision\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2023\n\n\nDripto Saha\n\n\n\n\n\n\nNo matching items"
+    "text": "Tiger Analytics\n\n\n(Dec 2021 - Jan 2023)\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nKOTAI ELECTRONICS PVT LTD.\n\n\n(May 2023 - Sept 2023)\n\n\n\n\nNLP\n\n\nComputer Vision\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPERSONAL PROJECTS\n\n\n\n\n\n\n\nanalysis\n\n\nAUDIO\n\n\nML\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Comp2/index.html",
     "href": "posts/Comp2/index.html",
     "title": "KOTAI ELECTRONICS PVT LTD.",
     "section": "",
-    "text": "Worked as a Computer Vision engineer\nProject Links\nBook Summary, People Counter"
+    "text": "TECH STACK USED: OpenCV and Spacy basics, Models(CNN and RNN using keras), Flask, Streamlit,HuggingFace NvidiaJetson OS\n\nProject Links\nBook Summary, People Counter"
+  },
+  {
+    "objectID": "posts/Comp2/index.html#worked-as-a-computer-vision-engineer",
+    "href": "posts/Comp2/index.html#worked-as-a-computer-vision-engineer",
+    "title": "KOTAI ELECTRONICS PVT LTD.",
+    "section": "",
+    "text": "TECH STACK USED: OpenCV and Spacy basics, Models(CNN and RNN using keras), Flask, Streamlit,HuggingFace NvidiaJetson OS\n\nProject Links\nBook Summary, People Counter"
   }
 ]

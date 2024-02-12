@@ -1,9 +1,18 @@
 ---
-title: "Tiger Analytics "
-author: "Dripto Saha"
-date: "December 2021 - January 2023"
+title: "Tiger Analytics"
+subtitle: (Dec 2021 - Jan 2023)
 categories: [code, analysis]
 image: "image.jpg"
 ---
-
+**MY WORK** 
+----
 Worked as a Data Anayst in the Data Science Team
+Project on CPG -> Estimated the US dollar opportunity sales of particular emerging trends, the estimated
+price in the upcoming years using NLP and time forecasting. 
+
+Responsibilites: Helped the senior analysts
+with the Bigram,Trigrams, Data preprocessing and Topic Modelling Codes. Also helped to find the rising
+of prices of ingredients for a particular social event cause at a particular time period
+Regression and Classification models with a provided Product opportunity dataset
+---
+**TECH STACK USED**: Python, MSExcel, Power BI
