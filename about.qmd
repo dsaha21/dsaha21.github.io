@@ -22,4 +22,4 @@ about:
 🎮 I like DyingLight, Sekiro, Fifa, FarCry5 and other open world games  
 👉 Learning More About GANs and End-End ML Systems
 
-[RESUME](https://raw.githubusercontent.com/your-username/your-repository/main/path-to-your-resume/resume.pdf)
+[RESUME](https://github.com/dsaha21/dsaha21.github.io/blob/main/DriptoSaha_Resume.pdf)
