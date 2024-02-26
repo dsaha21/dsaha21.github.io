@@ -2,7 +2,7 @@
 title: "Tiger Analytics"
 subtitle: (Dec 2021 - Jan 2023)
 categories: [code, analysis]
-image: "image.jpg"
+image: "TA_for_portfolio.jpg"
 ---
 **MY WORK** 
 ----
