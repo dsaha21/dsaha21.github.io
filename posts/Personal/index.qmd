@@ -1,7 +1,7 @@
 ---
 title: "PERSONAL PROJECTS"
 categories: [analysis, AUDIO, ML]
-image: "image.jpg"
+image: "Img_portfolio.jpg"
 ---
 
 **PROJECT LINKS**:

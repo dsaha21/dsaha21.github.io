@@ -18,8 +18,8 @@ about:
 ---
 
 🧑‍💻I am a ML Engineer eager to contribute my skills on Deep Learning. 
-⚽ A great supporter of Manchester City / Spain.
-🎮 I like DyingLight, Sekiro, Fifa, FarCry5 and other open world games  
-👉 Learning More About GANs and End-End ML Systems
+⚽ Manchester City  
+🎮 DyingLight, Sekiro, Fifa, FarCry5 and other open world games  
+👉 Learning More About GANs, AutoGens and End-End ML Systems
 
 [RESUME](https://drive.google.com/file/d/1smKwYuMtOEzyYKtMg4o4kzXyUVi5Hmwb/view?usp=sharing)
