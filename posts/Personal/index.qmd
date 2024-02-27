@@ -1,6 +1,6 @@
 ---
 title: "PERSONAL PROJECTS"
-categories: [analysis, AUDIO, ML]
+categories: [analysis, AUDIO, Vision, ML]
 image: "Img_portfolio.png"
 ---
 
