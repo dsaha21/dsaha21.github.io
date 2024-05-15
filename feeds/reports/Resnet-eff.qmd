@@ -1,0 +1,22 @@
+---
+title: "FINETUNING RESNET VS EFFICIENT NET"
+author: "[Dripto Saha](https://dsaha21.github.io/about.html)"
+date: "2024-12-15"
+categories: [deep learning, fine-tuning, model monitoring]
+# image: "assets/block-nerf.png"
+description: A basic metric, loss and accuracy comparison between ResNet and Efficient Net on text data
+format: 
+  html:
+    page-layout: full
+---
+
+[Finetuning Report](https://wandb.ai/driptosaha/Finetuning%20resnet/reports/FineTuning-ResNet-vs-EfficientNet--Vmlldzo3ODc4NTQ5)
+<!-- <details>
+    <summary>
+        <strong>
+            Featured on <a href="https://www.youtube.com/@TwoMinutePapers">Two Minute Papers</a>
+        </strong>
+    </summary>
+    <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8AZhcnWOK7M?si=71EcyK15MsnwdS2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details> -->

@@ -1,5 +1,5 @@
 ---
-title: "HI MY NAME IS DRIPTO SAHA "
+title: "MY INDUSTRY EXPERIENCE"
 listing:
   contents: posts
   sort: false

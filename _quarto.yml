@@ -6,10 +6,11 @@ website:
   title: "MY WORKSPACE"
   # site-url: https://ds21.io
   description: "A great sample blog"
-
+  open-graph: true
   navbar:
     right:
       - about.qmd
+      - reports.qmd
       - icon: github
         href: https://github.com/dsaha21
         

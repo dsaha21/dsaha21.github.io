@@ -1,0 +1,15 @@
+---
+title: "MY REPORTS AND PAPER IMPLEMENTATIONS"
+# image: Dripto_image.png
+about:
+  template: jolla
+listing:
+  feed: true
+  sort: "date desc"
+  date-format: "long"
+  categories: true
+  contents: 
+    - "feeds/reports/*.qmd"
+---
+<!-- ## Reports published on [Fully Connected](https://wandb.ai/fully-connected) -->
+<br>

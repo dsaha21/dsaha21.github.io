@@ -2,6 +2,9 @@
   "listingMap": {
     "index.qmd": [
       "posts"
+    ],
+    "reports.qmd": [
+      "feeds/reports/*.qmd"
     ]
   }
 }

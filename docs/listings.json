@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/reports.html",
+    "items": [
+      "/feeds/reports/Resnet-eff.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/Comp1/index.html",

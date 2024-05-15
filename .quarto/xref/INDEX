@@ -28,5 +28,11 @@
   },
   "posts/Personal/index.qmd": {
     "index.html": "2e0f4333"
+  },
+  "feeds/reports/Resnet-eff.qmd": {
+    "Resnet-eff.html": "6ea26a49"
+  },
+  "reports.qmd": {
+    "reports.html": "f8f0e7bb"
   }
 }
