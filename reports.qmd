@@ -1,5 +1,5 @@
 ---
-title: "MY REPORTS AND PAPER IMPLEMENTATIONS"
+title: "MY REPORTS"
 # image: Dripto_image.png
 about:
   template: jolla
