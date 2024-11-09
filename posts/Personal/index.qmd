@@ -1,20 +1,27 @@
 ---
-title: "PERSONAL PROJECTS"
-categories: [analysis, AUDIO, Vision, ML]
+title: "PERSONAL WORKS AND CONTRIBUTIONS"
+categories: [analysis, Vision, ML]
 image: "Img_portfolio.png"
 ---
 
 **PROJECT LINKS**:
 ----
 
+1. Roboflow SuperVision : [Updated Dot and Triangle Annotators](https://github.com/roboflow/supervision/issues/1285)
 
-1. A Mobile Android Applciation game - [COINMAN GAME](https://github.com/dsaha21/Coinman_game)
+2. A Botpress application on [Autogens](https://arxiv.org/pdf/2308.08155.pdf)
 
-2. A basic Tic-Tac-Toe Game using the application of Quantum Computing Superposition [Quantum TIC-TAC-TOE](https://github.com/dsaha21/Q-TicTacToe)
+2. Wind Turbines Analysis: [Yaw System](https://github.com/dsaha21/Yaw_System_Analysis) (Private)
 
-3. Segmentation Paper - [UNET](https://arxiv.org/pdf/1505.04597v1.pdf)
-My Own Code Implementaion - [CODE](https://www.kaggle.com/driptosaha/semanticsegmentation-unet/edit)
+3. Currently writing Machine Learning Algorithms from scratch: [MLAlgos](https://github.com/dsaha21/ML_Algos_from_scratch)
 
-4. Ongoing Paper Implementation of HeatMaps and Segmentation - [GRAD CAM](https://arxiv.org/pdf/1610.02391.pdf)
+4. Segmentation Paper : [UNET](https://arxiv.org/pdf/1505.04597v1.pdf)
+My Own Code Implementaion : [CODE](https://www.kaggle.com/driptosaha/semanticsegmentation-unet/edit)
 
-5. Currently implementing applications on [Autogens](https://arxiv.org/pdf/2308.08155.pdf)
+5. Ongoing Paper Implementation of Traffic Net 3D : [GRAD CAM](https://arxiv.org/pdf/2109.09165)
+
+6. Video Fps improvement on CPU: [Issue](https://github.com/roboflow/supervision/issues/1411)
+
+7. A Mobile Android Applciation game:  [COINMAN GAME](https://github.com/dsaha21/Coinman_game) 
+
+8. A basic Tic-Tac-Toe Game using the application of Quantum Computing Superposition [Quantum TIC-TAC-TOE](https://github.com/dsaha21/Q-TicTacToe)
