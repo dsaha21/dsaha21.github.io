@@ -7,7 +7,7 @@ image: "Img_portfolio.png"
 **PROJECT LINKS**:
 ----
 
-1. Roboflow SuperVision : [Updated Dot and Triangle Annotators](https://github.com/roboflow/supervision/issues/1285)
+1. Roboflow SuperVision: [Updated Dot and Triangle Annotators](https://github.com/roboflow/supervision/issues/1285)
 
 2. A Botpress application on [Autogens](https://arxiv.org/pdf/2308.08155.pdf)
 

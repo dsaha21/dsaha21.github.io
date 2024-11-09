@@ -8,8 +8,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/Comp1/index.html",
       "/posts/Comp2/index.html",
+      "/posts/Comp1/index.html",
       "/posts/Personal/index.html"
     ]
   }

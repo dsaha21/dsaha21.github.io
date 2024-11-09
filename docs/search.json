@@ -4,42 +4,7 @@
     "href": "reports.html",
     "title": "MY REPORTS",
     "section": "",
-    "text": "FINETUNING RESNET VS EFFICIENT NET\n\n\n\n\n\n\ndeep learning\n\n\nfine-tuning\n\n\nmodel monitoring\n\n\n\n\nA basic metric, loss and accuracy comparison between ResNet and Efficient Net on text data\n\n\n\n\n\n\nMay 12, 2024\n\n\nDripto Saha\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/Comp2/index.html",
-    "href": "posts/Comp2/index.html",
-    "title": "KOTAI ELECTRONICS PVT LTD.",
-    "section": "",
-    "text": "TECH STACK USED: OpenCV and Spacy basics, Models(CNN and RNN using keras), Flask, Streamlit,HuggingFace NvidiaJetson OS\n\nProject Links\nBook Summary, People Counter"
-  },
-  {
-    "objectID": "posts/Comp2/index.html#worked-as-a-computer-vision-engineer",
-    "href": "posts/Comp2/index.html#worked-as-a-computer-vision-engineer",
-    "title": "KOTAI ELECTRONICS PVT LTD.",
-    "section": "",
-    "text": "TECH STACK USED: OpenCV and Spacy basics, Models(CNN and RNN using keras), Flask, Streamlit,HuggingFace NvidiaJetson OS\n\nProject Links\nBook Summary, People Counter"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MY INDUSTRY EXPERIENCE",
-    "section": "",
-    "text": "Tiger Analytics\n\n\n(Dec 2021 - Jan 2023)\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nKOTAI ELECTRONICS PVT LTD.\n\n\n(May 2023 - Sept 2023)\n\n\n\n\nNLP\n\n\nComputer Vision\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPERSONAL PROJECTS\n\n\n\n\n\n\n\nanalysis\n\n\nAUDIO\n\n\nVision\n\n\nML\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "PERSONAL INFO",
-    "section": "",
-    "text": "🧑‍💻I am a ML Engineer eager to contribute my skills on Deep Learning. ⚽ Manchester City\n🎮 DyingLight, Sekiro, Fifa, FarCry5 and other open world games\n👉 Learning More About GANs, AutoGens and End-End ML Systems\nRESUME"
-  },
-  {
-    "objectID": "feeds/reports/Resnet-eff.html",
-    "href": "feeds/reports/Resnet-eff.html",
-    "title": "FINETUNING RESNET VS EFFICIENT NET",
-    "section": "",
-    "text": "Finetuning Report"
+    "text": "FINETUNING RESNET VS EFFICIENT NET\n\n\n\n\n\n\ndeep learning\n\n\nfine-tuning\n\n\nmodel monitoring\n\n\n\nA basic metric, loss and accuracy comparison between ResNet and Efficient Net on text data\n\n\n\n\n\nMay 12, 2024\n\n\nDripto Saha\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Comp1/index.html",
@@ -56,17 +21,52 @@
     "text": "Worked as a Data Anayst in the Data Science Team Project on CPG -&gt; Estimated the US dollar opportunity sales of particular emerging trends, the estimated price in the upcoming years using NLP and time forecasting.\nResponsibilites: Helped the senior analysts with the Bigram,Trigrams, Data preprocessing and Topic Modelling Codes. Also helped to find the rising of prices of ingredients for a particular social event cause at a particular time period Regression and Classification models with a provided Product opportunity dataset\n\nTECH STACK USED: Python, MSExcel, Power BI"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "PERSONAL INFO",
+    "section": "",
+    "text": "🧑‍💻I am a ML Engineer eager to contribute my skills on Deep Learning. ⚽ Manchester City\n🎮 DyingLight, Sekiro, Fifa, FarCry5 and other open world games\n👉 Learning More About GANs, AutoGens and End-End ML Systems\nRESUME"
+  },
+  {
+    "objectID": "feeds/reports/Resnet-eff.html",
+    "href": "feeds/reports/Resnet-eff.html",
+    "title": "FINETUNING RESNET VS EFFICIENT NET",
+    "section": "",
+    "text": "Finetuning Report"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MY INDUSTRY EXPERIENCE",
+    "section": "",
+    "text": "KOTAI ELECTRONICS PVT LTD.\n\n\n(May 2023 - Sept 2023)\n\n\n\nNLP\n\n\nComputer Vision\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTiger Analytics\n\n\n(Dec 2021 - Jan 2023)\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPERSONAL WORKS AND CONTRIBUTIONS\n\n\n\n\n\n\nanalysis\n\n\nVision\n\n\nML\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Comp2/index.html",
+    "href": "posts/Comp2/index.html",
+    "title": "KOTAI ELECTRONICS PVT LTD.",
+    "section": "",
+    "text": "TECH STACK USED: OpenCV and Spacy basics, Models(CNN and RNN using keras), Flask, Streamlit,HuggingFace NvidiaJetson OS\n\nProject Links\nBook Summary, People Counter"
+  },
+  {
+    "objectID": "posts/Comp2/index.html#worked-as-a-computer-vision-engineer",
+    "href": "posts/Comp2/index.html#worked-as-a-computer-vision-engineer",
+    "title": "KOTAI ELECTRONICS PVT LTD.",
+    "section": "",
+    "text": "TECH STACK USED: OpenCV and Spacy basics, Models(CNN and RNN using keras), Flask, Streamlit,HuggingFace NvidiaJetson OS\n\nProject Links\nBook Summary, People Counter"
+  },
+  {
     "objectID": "posts/Personal/index.html",
     "href": "posts/Personal/index.html",
-    "title": "PERSONAL PROJECTS",
+    "title": "PERSONAL WORKS AND CONTRIBUTIONS",
     "section": "",
-    "text": "A Mobile Android Applciation game - COINMAN GAME\nA basic Tic-Tac-Toe Game using the application of Quantum Computing Superposition Quantum TIC-TAC-TOE\nSegmentation Paper - UNET My Own Code Implementaion - CODE\nOngoing Paper Implementation of HeatMaps and Segmentation - GRAD CAM\nCurrently implementing applications on Autogens"
+    "text": "Roboflow SuperVision: Updated Dot and Triangle Annotators\nA Botpress application on Autogens\nWind Turbines Analysis: Yaw System (Private)\nCurrently writing Machine Learning Algorithms from scratch: MLAlgos\nSegmentation Paper : UNET My Own Code Implementaion : CODE\nOngoing Paper Implementation of Traffic Net 3D : GRAD CAM\nVideo Fps improvement on CPU: Issue\nA Mobile Android Applciation game: COINMAN GAME\nA basic Tic-Tac-Toe Game using the application of Quantum Computing Superposition Quantum TIC-TAC-TOE"
   },
   {
     "objectID": "posts/Personal/index.html#project-links",
     "href": "posts/Personal/index.html#project-links",
-    "title": "PERSONAL PROJECTS",
+    "title": "PERSONAL WORKS AND CONTRIBUTIONS",
     "section": "",
-    "text": "A Mobile Android Applciation game - COINMAN GAME\nA basic Tic-Tac-Toe Game using the application of Quantum Computing Superposition Quantum TIC-TAC-TOE\nSegmentation Paper - UNET My Own Code Implementaion - CODE\nOngoing Paper Implementation of HeatMaps and Segmentation - GRAD CAM\nCurrently implementing applications on Autogens"
+    "text": "Roboflow SuperVision: Updated Dot and Triangle Annotators\nA Botpress application on Autogens\nWind Turbines Analysis: Yaw System (Private)\nCurrently writing Machine Learning Algorithms from scratch: MLAlgos\nSegmentation Paper : UNET My Own Code Implementaion : CODE\nOngoing Paper Implementation of Traffic Net 3D : GRAD CAM\nVideo Fps improvement on CPU: Issue\nA Mobile Android Applciation game: COINMAN GAME\nA basic Tic-Tac-Toe Game using the application of Quantum Computing Superposition Quantum TIC-TAC-TOE"
   }
 ]
