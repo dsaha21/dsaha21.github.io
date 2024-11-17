@@ -16,7 +16,7 @@ image: "Img_portfolio.png"
 3. Currently writing Machine Learning Algorithms from scratch: [MLAlgos](https://github.com/dsaha21/ML_Algos_from_scratch)
 
 4. Segmentation Paper : [UNET](https://arxiv.org/pdf/1505.04597v1.pdf)
-My Own Code Implementaion : [CODE](https://www.kaggle.com/driptosaha/semanticsegmentation-unet/edit)
+My Own Code Implementaion : [CODE](https://www.kaggle.com/code/driptosaha/unet-keras-scratch/edit)
 
 5. Ongoing Paper Implementation of Traffic Net 3D : [GRAD CAM](https://arxiv.org/pdf/2109.09165)
 
