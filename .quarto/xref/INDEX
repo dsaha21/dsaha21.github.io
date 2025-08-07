@@ -34,5 +34,8 @@
   },
   "reports.qmd": {
     "reports.html": "f8f0e7bb"
+  },
+  "posts/Comp3/index.qmd": {
+    "index.html": "d5101c76"
   }
 }

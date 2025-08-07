@@ -2,6 +2,7 @@
 title: "PG-DAC intern at CDAC Bangalore"
 subtitle: (Feb 2025 -  August 2025)
 categories: [Frontend, Backend and Database]
+image: "thumbnail.jpg"
 ---
 
 **Course Training in Full Stack Development**
