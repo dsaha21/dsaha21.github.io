@@ -17,7 +17,7 @@ about:
       href: https://github.com/dsaha21
 ---
 
-🧑‍💻I am a ML Engineer eager to contribute my skills on Deep Learning. 
+🧑‍💻I am a ML Engineer eager to contribute my skills on Full Stack Dev and Deep Learning(Mainly Vision). 
 ⚽ Manchester City  
 🎮 DyingLight, Sekiro, Fifa, FarCry5 and other open world games  
 👉 Learning More About GANs, AutoGens and End-End ML Systems
